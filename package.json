@@ -1,0 +1,23 @@
+{
+  "name": "lint",
+  "version": "1.0.0",
+  "description": "ESLint sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copiner/lint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copiner/lint/issues"
+  },
+  "homepage": "https://github.com/copiner/lint#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
